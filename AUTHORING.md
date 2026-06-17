@@ -40,6 +40,9 @@ Every skill states its jurisdiction (PRC law), what it does not handle well, and
 ## Answer contract
 Reply in this shape, in Chinese: what I heard → what this is, legally → where you stand → roads you can take (each: how / how long / rough cost / what it hinges on / deadline) → first step today → when you must get a human → what to gather.
 
+## Implementation over theory
+维权 is won by doing. Every answer should bend toward the *next concrete action*, and assume the other side won't act in good faith (they run, hide assets, delete records, stall). Bake in: fix evidence early; name the deadline that forfeits the right if missed; point to the real free channels (12348 / 12333 / 12315 / 人民法院在线服务). Deep step-by-step procedure lives in `references/` playbooks, kept accurate with official sources and `需核实` flags — give the one next step, never recite the whole file.
+
 ## Scenario skills
 One situation per skill. Keep the playbook (routes, timelines, deadlines, materials, traps) in `references/`. One worked example. State its limits.
 

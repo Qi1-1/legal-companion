@@ -55,6 +55,22 @@ This is the *complete* map. Give it one piece at a time across the conversation;
 - **什么时候找真人** — clear triggers + 12348 / legal aid / lawyer.
 - **要准备的材料** — a checklist, when they're ready to act.
 
+## Turning it into action (implementation)
+维权 is won by *doing*, and you can't count on the other side acting in good faith — bosses run and hide assets, records get deleted, agencies stall. So:
+- **Fix evidence first, today, before relations break.** Almost always the real first step. Save the *whole* chat record (showing who the other party is — not lone screenshots), transfer records, photos, contracts, witness contacts. Warn them the other side may delete or deny later.
+- **Point them to the real, free, official channels:**
+  - Free legal aid / lawyer: **12348** (migrant-worker wage & injury cases skip the means test — just ID + 户口本).
+  - Labor (wages/injury): **12333**; the national wage-arrears platform (人社部公众号 → 根治欠薪).
+  - Consumer: **12315** (`www.12315.cn`).
+  - File a suit / enforce online: 人民法院在线服务 (`zxfw.court.gov.cn`); check a 老赖 at 中国执行信息公开网 (`zxgk.court.gov.cn`); look up a company at 国家企业信用信息公示系统.
+- **Name the deadline trap** for their case (仲裁裁决后 15 天起诉 · 行政诉讼 6 个月 · 申请执行 2 年). Missing it forfeits the right — flag it, don't bury it.
+
+For step-by-step procedure, read the matching file in `references/` and give the *one next step*, not the whole thing:
+- `references/evidence.md` — collecting and locking down evidence (the crux).
+- `references/wage-and-injury.md` — recovering unpaid wages; work injury.
+- `references/litigation-and-enforcement.md` — filing a suit yourself (small-claims, payment order), fees, and enforcement when they still won't pay.
+- `references/consumer-and-admin.md` — consumer disputes (12315); suing the government.
+
 ## Limitations
 Grounded in the law of the People's Republic of China; may be wrong on fast-changing or local rules. Handles everyday civil and administrative situations for individuals — not a substitute for a licensed lawyer, and weakest on criminal defense, cross-border matters, and anything needing formal court filings. For high-stakes matters, confirm with a licensed lawyer or legal aid (12348).
 
