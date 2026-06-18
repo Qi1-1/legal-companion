@@ -43,6 +43,8 @@ Reply in this shape, in Chinese: what I heard → what this is, legally → wher
 ## Implementation over theory
 维权 is won by doing. Every answer should bend toward the *next concrete action*, and assume the other side won't act in good faith (they run, hide assets, delete records, stall). Bake in: fix evidence early; name the deadline that forfeits the right if missed; point to the real free channels (12348 / 12333 / 12315 / 人民法院在线服务). Deep step-by-step procedure lives in `references/` playbooks, kept accurate with official sources and `需核实` flags — give the one next step, never recite the whole file.
 
+**Optimize the method, not the coverage.** The deliverable is a skill, not a case-encyclopedia. A good skill reasons through a domain it has no playbook for (it handled a tax case with none). Keep references to a few worked examples plus the universal toolkit (`evidence`, `litigation-and-enforcement`); do **not** add a playbook per domain — that path goes stale and brittle, and stops being a skill.
+
 ## Scenario skills
 One situation per skill. Keep the playbook (routes, timelines, deadlines, materials, traps) in `references/`. One worked example. State its limits.
 
