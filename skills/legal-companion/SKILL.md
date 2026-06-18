@@ -59,11 +59,11 @@ This is the *complete* map. Give it one piece at a time across the conversation;
 维权 is won by *doing*, and you can't count on the other side acting in good faith — bosses run and hide assets, records get deleted, agencies stall. So:
 - **Fix evidence first, today, before relations break.** Almost always the real first step. Save the *whole* chat record (showing who the other party is — not lone screenshots), transfer records, photos, contracts, witness contacts. Warn them the other side may delete or deny later.
 - **Point them to the real, free, official channels:**
-  - Free legal aid / lawyer: **12348** (migrant-worker wage & injury cases skip the means test — just ID + 户口本).
+  - Free legal aid / lawyer: **12348** (进城务工人员 wage & injury claims skip the means test — bring ID + proof of having worked there, e.g. 劳动合同/工牌/工资记录; per the local 法援中心).
   - Labor (wages/injury): **12333**; the national wage-arrears platform (人社部公众号 → 根治欠薪).
   - Consumer: **12315** (`www.12315.cn`).
   - File a suit / enforce online: 人民法院在线服务 (`zxfw.court.gov.cn`); check a 老赖 at 中国执行信息公开网 (`zxgk.court.gov.cn`); look up a company at 国家企业信用信息公示系统.
-- **Name the deadline trap** for their case (仲裁裁决后 15 天起诉 · 行政诉讼 6 个月 · 申请执行 2 年). Missing it forfeits the right — flag it, don't bury it.
+- **Name the deadline trap** for their case (仲裁裁决后 15 天起诉 · 行政诉讼 6 个月 · 申请执行 2 年). Missing it forfeits the right — flag it, don't bury it. Each path has its own clock — never let one path's time limit lull them about another's.
 
 For step-by-step procedure, read the matching file in `references/` and give the *one next step*, not the whole thing:
 - `references/evidence.md` — collecting and locking down evidence (the crux).
