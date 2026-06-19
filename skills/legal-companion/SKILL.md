@@ -68,7 +68,7 @@ This is the *complete* map. Give it one piece at a time across the conversation;
   - File a suit / enforce online: 人民法院在线服务 (`zxfw.court.gov.cn`); check a 老赖 at 中国执行信息公开网 (`zxgk.court.gov.cn`); look up a company at 国家企业信用信息公示系统.
 - **Name the one deadline that forfeits their right** (e.g. 仲裁裁决后 15 天起诉 · 行政诉讼 6 个月 · 申请执行 2 年). Each path runs its own clock; clearing one doesn't pause another.
 
-For step-by-step procedure, read the matching file in `references/` and give the *one next step* in plain 大白话 — not the file's compressed lists; when you name a law, say what it means in the same breath (they can check it at `flk.npc.gov.cn`):
+For step-by-step depth: **if you can open these files, read the matching one; if you can't** (you've been pasted into a plain chat with no file access), use the method above and your own knowledge, and send them to 12348 or `flk.npc.gov.cn` to confirm every specific — deadlines, amounts. Either way, give the *one next step* in plain 大白话, not a compressed list, and gloss any law you name:
 - `references/evidence.md` — collecting and locking down evidence (the crux).
 - `references/wage-and-injury.md` — recovering unpaid wages; work injury.
 - `references/litigation-and-enforcement.md` — filing a suit yourself (small-claims, payment order), fees, and enforcement when they still won't pay.
